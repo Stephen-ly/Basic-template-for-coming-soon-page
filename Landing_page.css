@@ -1,0 +1,33 @@
+html, body {
+	position: relative;
+ 	height: 100%;
+ 	padding:0;
+ 	margin: 0;
+	}
+
+	body{
+
+		background-image: url("test image.jpg");
+		background-size:cover
+	}
+
+	table {
+	position: absolute;
+  	height:100%;
+  	width:100%;
+	}
+	
+	p,h1{
+	color: white;
+	text-align: center;
+	font-family: 'Knewave', cursive;
+	}
+
+	h1{
+		
+		font-size: 6em;
+		padding-bottom: 1;
+		margin-bottom: 10px;
+	}
+   	p{
+   	}
